@@ -1,0 +1,10 @@
+.search-for-cards {
+  margin: 1rem 0 0 1rem;
+  min-width: 20rem;
+  min-height: 5vh;
+}
+
+.actions {
+  display: flex;
+  justify-content: space-between;
+}
